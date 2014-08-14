@@ -27,6 +27,8 @@ I'm always a sucker for funky USBs like [this one](http://store.apple.com/us/pro
 
 [Nerdy Docking Station](http://www.kogan.com/au/buy/wavlink-usb-30-multi-task-universal-laptop-docking-station-hub-wl-ug39dk1/), $100 - or the [cheaper, lighter less cool version](http://www.kogan.com/au/buy/mbeat-4-port-usb-30-3-port-usb-20-hub-usb-m43hub/) $133
 
+[Super Smash Bros for Wii U!](http://www.smashbros.com/en-au/) $80ish
+
 A [PA system](https://www.storedj.com.au/products/YAM-STAGEPAS400I) would certainly come in handy 
 
 [I probably don't really want this](http://www.kogan.com/au/buy/robot-vacuum-cleaner/), but it's cool/hilarious. 
