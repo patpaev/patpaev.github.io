@@ -13,11 +13,23 @@ Basically anything decent but not too fancy. Fully weighted 88 keys, relatively 
 
 [Thunderbolt > Gigabit Ethernet](http://store.apple.com/au/product/MD463ZM/A/thunderbolt-to-gigabit-ethernet-adapter?fnode=d6453eb96115a1cf9f7f2ee234947d2178d2754eff65953603f3895fe9bf14d33a36bbcaddd88410097e7f367d3ee42f11a93ff6db39b437984ac4dc2b7200d653922a16587481706922f25b23cde1e9f0bfff216bc5418312e18958a971a186f6d3c8e6eb5689842a6f65e01dcf4bad) $35
 
+[Laptop Stand](http://store.apple.com/us/product/TN740ZM/A/rain-design-mstand-for-macbookmacbook-pro?fnode=caa087ea4a93b56cc4b34bd529f248a674852775d3338854d6ac13a690edc98958ca180060d7ec85888a6792c9fe96225452c1250ff0e35a25e39607cf0c85993f95230170344bf2bd3928bbcd51019b60b1e96431b9ef1e6d160beebfc236656c8033c4a36870caff45ff28d6bc4d9a) $50
+
+[iPad Stand](http://store.apple.com/us/product/HB781ZM/A/twelve-south-bookarc-stand-for-ipad-or-ipad-mini?fnode=caa087ea4a93b56cc4b34bd529f248a674852775d3338854d6ac13a690edc98958ca180060d7ec85888a6792c9fe96225452c1250ff0e35a25e39607cf0c85993f95230170344bf2bd3928bbcd51019b60b1e96431b9ef1e6d160beebfc236656c8033c4a36870caff45ff28d6bc4d9a) $30
+
 [Om One Hovering Speaker](http://www.omone.com/om-one) USD$200
 
 [Jibo](https://www.indiegogo.com/projects/jibo-the-world-s-first-family-robot) USD$550
 
 [Benny's Lego Spaceship](http://shop.lego.com/en-AU/Benny-s-Spaceship-Spaceship-SPACESHIP-70816?fromListing=listing) $150
+
+I'm always a sucker for funky USBs like [this one](http://store.apple.com/us/product/H9372LL/A/lacie-16gb-ruggedkey-usb-3-flash-drive?fnode=392f4bc55708f7b77bb6bedb89c442ba089eeb3fdc41a786f6170ef4d168c5b6c828ead1eee44768885432f3c6264c5204f60de37c02fd5a6becc29717b910d02a93565d6f4939c99467ff54a884fb6e23d8722a2da877fd0db1487856509458d4d85d97028ad6a0795f951da05f0bc5) or [this one](http://www.kogan.com/au/buy/32gb-usb-key-flash-drive/), or [these](http://www.kogan.com/au/buy/4gb-usb-cufflinks/) $var
+
+[Nerdy Docking Station](http://www.kogan.com/au/buy/wavlink-usb-30-multi-task-universal-laptop-docking-station-hub-wl-ug39dk1/) - or the [cheaper, lighter less cool version](http://www.kogan.com/au/buy/mbeat-4-port-usb-30-3-port-usb-20-hub-usb-m43hub/) $100
+
+[I probably don't really want this](http://www.kogan.com/au/buy/robot-vacuum-cleaner/), but it's cool/hilarious. 
+
+Maybe a bike. 
 
 Clothes.  ASOS, The Iconic, Country Road. 
 Sizes: general medium, 29 pants, 10 shoes, 39 shirt/jacket. 
