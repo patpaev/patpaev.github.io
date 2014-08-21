@@ -23,8 +23,6 @@ Basically anything decent but not too fancy. Fully weighted 88 keys, relatively 
 
 [Jibo](https://www.indiegogo.com/projects/jibo-the-world-s-first-family-robot) USD$550
 
-[Benny's Lego Spaceship](http://shop.lego.com/en-AU/Benny-s-Spaceship-Spaceship-SPACESHIP-70816?fromListing=listing) $150
-
 I'm always a sucker for funky USBs like [this one](http://store.apple.com/us/product/H9372LL/A/lacie-16gb-ruggedkey-usb-3-flash-drive?fnode=392f4bc55708f7b77bb6bedb89c442ba089eeb3fdc41a786f6170ef4d168c5b6c828ead1eee44768885432f3c6264c5204f60de37c02fd5a6becc29717b910d02a93565d6f4939c99467ff54a884fb6e23d8722a2da877fd0db1487856509458d4d85d97028ad6a0795f951da05f0bc5) or [this one](http://www.kogan.com/au/buy/32gb-usb-key-flash-drive/), or [these](http://www.kogan.com/au/buy/4gb-usb-cufflinks/) $var
 
 [Nerdy Docking Station](http://www.kogan.com/au/buy/wavlink-usb-30-multi-task-universal-laptop-docking-station-hub-wl-ug39dk1/), $100 - or the [cheaper, lighter less cool version](http://www.kogan.com/au/buy/mbeat-4-port-usb-30-3-port-usb-20-hub-usb-m43hub/) $133
