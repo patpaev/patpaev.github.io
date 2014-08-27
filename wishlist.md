@@ -32,6 +32,15 @@ A [PA system](https://www.storedj.com.au/products/YAM-STAGEPAS400I) would certai
 
 Just call me [the Good Wife](http://store.apple.com/us/product/HE494LL/A/double-telepresence-robot?fnode=ceaa4ee7740d04e17386455a0db65f8d8e0ee040cfbfe9c2ceacdae2e713790431580961ef73dd0bae1ed974160c9e4a74fa69629240e4a6634132d3926970d0ff338f2db66fc93ac7f65c08437848339177849126273e0f961f3a93ce9d8dc91b32501b4dcba3a8839f06a33ba49774)
 
+[Clouds](http://www.richardclarkson.com/shop/cloud)
+
+Maybe a bike.
+
+Clothes.  ASOS, The Iconic, Country Road.
+Sizes: general medium, 29 pants, 10 shoes, 39 shirt/jacket.
+
+iTunes Gift Cards
+
 Maybe a bike.
 
 Clothes.  ASOS, The Iconic, Country Road.
