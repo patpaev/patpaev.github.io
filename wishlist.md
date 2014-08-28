@@ -6,6 +6,8 @@ iPhone 6 (6 inch display) ~$1k
 
 iWatch, if that gets released in Sept.
 
+[One of these cute stickers](https://www.apple.com/au/macbook-air/stickers/) $10-12
+
 Keyboard Amp, eg. [here](https://www.storedj.com.au/category/Studio-Gear/Studio-Accessories/Keyboard-Amplifiers) or [here](http://www.kosmic.com.au/keyboard/keyboard-amps/) $280-600
 
 [Beats Headphones](http://store.apple.com/au/product/HGFH2PA/A/beats-by-dr-dre-solo2-on-ear-headphones-special-edition-matte-white?fnode=fa41fd5a0ae63f4c9e5c582cf3862b2b5db93338e995225fdd67e2a9822855147f66fb78959a9ff6ca844d9883073514ddffb154d2d1f9559b5957cfd1e5e2fa958650f6bd453cbc0b52a84a61993c0a76533a579b1e6315be0bfe48ada3c1653274a01ae5514c982cbc2d77f7d87b0f&fs=f%3Dbeats-onear-overear%26fh%3D40a1%252B3230%252B30d5%252B30d6) - $260, or similar
