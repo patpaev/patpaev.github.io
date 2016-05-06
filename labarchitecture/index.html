@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Lab Architecture demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type='text/javascript' src='https://jnicol.github.io/particleground/js/jquery.particleground.js'></script>
+  <script type='text/javascript'>
+    document.addEventListener('DOMContentLoaded', function () {
+      particleground(document.getElementById('particles'), {
+        // density: 25000,
+        // dotColor: '#fff',
+        // lineColor: '#fff',
+        // lineWidth: 2,
+        // minSpeedX: 0,
+        // maxSpeedX:0,
+        // minSpeedY: 1,
+        // maxSpeedY: 2,
+        // parallaxMultiplier: 10,
+        // particleRadius: 10,
+        // proximity: 180,
+        dotColor: 'rgba(255, 255, 255, 0.4)',
+        lineColor: 'rgba(255, 255, 255, 0.4)',
+        maxSpeedX: 0.2,
+        maxSpeedY: 0.2,
+        parallax: true,
+        density: 7000
+      });
+    }, false);
+  </script>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .logo {
+      align-items: stretch;
+      animation: logo-in 1.5s ease-in-out;
+      background-color: rgba(0, 0, 0, .8);
+      color: white;
+      display: inline-flex;
+      height: 60px;
+      margin: 0 auto;
+      width: auto;
+    }
+
+    .logo .logo-icon {
+      animation: from-left 1.5s;
+      background-image: url('data:image/svg+xml;utf8,<svg width="250" height="250" viewBox="0 0 250 250" xmlns="http://www.w3.org/2000/svg"><title>Lab Logo</title><g fill="none" fill-rule="evenodd"><path fill="%23FFF" d="M0 0h250v250H0z"></path><path fill="%23000" d="M125.375 200.75L50 50h150.75"></path></g></svg>');
+      background-size: cover;
+      display: inline-block;
+      height: 100%;
+      width: 60px;
+    }
+
+    .logo h1 {
+      animation: from-right 1.5s;
+      margin: auto;
+      padding: 0 16px;
+    }
+
+    .logo .big {
+      font-size: 34px;
+      padding-right: 2px;
+      text-transform: uppercase;
+    }
+
+    .logo .small {
+      font-size: 18px;
+      text-transform: lowercase;
+    }
+
+    .cta {
+      animation: cta-in 2.5s ease-in-out;
+      background-color: rgba(0,0,0,.25);
+      border: 3px solid #fff;
+      cursor: pointer;
+      display: inline-block;
+      font-size: 12px;
+      font-weight: bold;
+      margin: 3em 0;
+      padding: 12px 24px;
+      text-transform: uppercase;
+      transition: all .3s;
+    }
+
+    .cta:hover {
+      background-color: #fff;
+      color: #000;
+    }
+
+    .arrow {
+      animation: arrowforward 1s infinite ease-in-out;
+      display: inline-block;
+      padding: 0 5px;
+    }
+
+    #particles {
+      background-color: #000;
+      background-image: url('https://images.unsplash.com/uploads/1413152676137eccd463c/61606b7b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=51eb5009b327526a5f76e7f367b66dc2');
+      background-size: cover;
+      color: white;
+      height: 400px;
+      position: relative;
+      width: 100%;
+    }
+
+    #particles canvas {
+      background: -webkit-linear-gradient(#0076de, #5fb4ff);
+      mix-blend-mode: overlay;
+    }
+
+    #intro {
+      /*background: url('world.svg');*/
+      background-repeat: no-repeat;
+      background-position: 50%;
+      background-size: contain;
+      box-sizing: border-box;
+      left: 0;
+      padding-top: 120px;
+      position: absolute;
+      text-align: center;
+      top: 0;
+      width: 100%;
+    }
+
+    section {
+      padding: 2em 0;
+    }
+
+    p {
+      padding: 0 3% 1.5em 3%;
+      font-size: 1.25em;
+      margin: 0 auto;
+      max-width: 700px;
+    }
+
+    @media screen and (min-width: 769px) {
+
+      .cta {
+        font-size: 16px;
+      }
+
+      #intro {
+        padding-top: 170px;
+      }
+
+      #particles {
+        height: 600px;
+      }
+
+      .logo {
+        height: 80px;
+      }
+
+      .logo .logo-icon {
+        width: 80px;
+      }
+
+      .logo h1 {
+        padding: 0 36px;
+      }
+
+      .logo .big {
+        font-size: 60px;
+        padding-right: 6px;
+      }
+
+      .logo .small {
+        font-size: 30px;
+      }
+    }
+
+    @keyframes from-left {
+      from  {
+        opacity: 0;
+        transform: translateX(-40px);
+      }
+      50% {
+        opacity: 0;
+        transform: translateX(-40px);
+      }
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    @keyframes from-right {
+      from  {
+        opacity: 0;
+        transform: translateX(40px);
+      }
+      50% {
+        opacity: 0;
+        transform: translateX(40px);
+      }
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    @keyframes logo-in {
+      from {
+        opacity: 0;
+        transform: translateY(-100px);
+      }
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    @keyframes cta-in {
+      from {
+        opacity: 0;
+        transform: translateY(50px);
+      }
+      50% {
+        opacity: 0;
+        transform: translateY(50px);
+      }
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    @keyframes arrowforward {
+      0% {
+        transform: translateX(0);
+      }
+      50% {
+        transform: translateX(5px);
+      }
+      100% {
+        transform: translateX(0);
+      }
+    }
+
+  </style>
+</head>
+
+<body>
+  <div id="particles">
+    <div id="intro">
+      <div class="logo">
+        <div class="logo-icon"></div>
+        <h1><span class="big">LAB</span> <span class="small">Architecture Studio</span></h1>
+      </div>
+      <p><a class="cta">Explore our work <span class="arrow">→</span></a></p>
+    </div>
+  </div>
+  <section>
+    <p>Tertiary links and more information...</p>
+  </section>
+</body>
+</html>
